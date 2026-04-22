@@ -1,0 +1,2 @@
+# Telecom-Customer-Churn-Prediction-using-Ensemble-Learning
+Customer churn prediction is a critical problem in business analytics. This project builds an advanced machine learning pipeline to predict whether a customer is likely to leave a service based on behavioral and usage data.  The project not only focuses on prediction but also on extracting meaningful insights to support data-driven decision-making.
